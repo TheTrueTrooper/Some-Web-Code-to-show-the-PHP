@@ -1,0 +1,28 @@
+[19-Sep-2016 20:56:20 UTC] PHP Warning:  require_once(../ICA/ICA01.php): failed to open stream: No such file or directory in /home/asanches/public_html/CMPE2500/util.php on line 2
+[19-Sep-2016 20:56:20 UTC] PHP Fatal error:  require_once(): Failed opening required '../ICA/ICA01.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/asanches/public_html/CMPE2500/util.php on line 2
+[19-Sep-2016 20:58:33 UTC] PHP Warning:  require_once(../util.php): failed to open stream: No such file or directory in /home/asanches/public_html/CMPE2500/Index.php on line 2
+[19-Sep-2016 20:58:33 UTC] PHP Fatal error:  require_once(): Failed opening required '../util.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/asanches/public_html/CMPE2500/Index.php on line 2
+[19-Sep-2016 20:59:50 UTC] PHP Warning:  require_once(../ICA/ICA01.php): failed to open stream: No such file or directory in /home/asanches/public_html/CMPE2500/util.php on line 2
+[19-Sep-2016 20:59:50 UTC] PHP Fatal error:  require_once(): Failed opening required '../ICA/ICA01.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/asanches/public_html/CMPE2500/util.php on line 2
+[19-Sep-2016 21:00:15 UTC] PHP Warning:  require_once(../ICA/ICA01.php): failed to open stream: No such file or directory in /home/asanches/public_html/CMPE2500/util.php on line 2
+[19-Sep-2016 21:00:15 UTC] PHP Fatal error:  require_once(): Failed opening required '../ICA/ICA01.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/asanches/public_html/CMPE2500/util.php on line 2
+[19-Sep-2016 21:00:16 UTC] PHP Warning:  require_once(../ICA/ICA01.php): failed to open stream: No such file or directory in /home/asanches/public_html/CMPE2500/util.php on line 2
+[19-Sep-2016 21:00:16 UTC] PHP Fatal error:  require_once(): Failed opening required '../ICA/ICA01.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/asanches/public_html/CMPE2500/util.php on line 2
+[19-Sep-2016 21:01:03 UTC] PHP Warning:  scandir(): Directory name cannot be empty in /home/asanches/public_html/CMPE2500/Index.php on line 7
+[19-Sep-2016 21:01:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/asanches/public_html/CMPE2500/Index.php on line 42
+[19-Sep-2016 21:02:17 UTC] PHP Warning:  scandir(): Directory name cannot be empty in /home/asanches/public_html/CMPE2500/Index.php on line 7
+[19-Sep-2016 21:02:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/asanches/public_html/CMPE2500/Index.php on line 42
+[19-Sep-2016 21:03:13 UTC] PHP Warning:  scandir() expects parameter 1 to be a valid path, array given in /home/asanches/public_html/CMPE2500/Index.php on line 7
+[19-Sep-2016 21:03:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/asanches/public_html/CMPE2500/Index.php on line 42
+[19-Sep-2016 21:05:05 UTC] PHP Warning:  scandir() expects parameter 1 to be a valid path, array given in /home/asanches/public_html/CMPE2500/Index.php on line 7
+[19-Sep-2016 21:05:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/asanches/public_html/CMPE2500/Index.php on line 42
+[19-Sep-2016 21:06:50 UTC] PHP Warning:  scandir() expects parameter 1 to be a valid path, array given in /home/asanches/public_html/CMPE2500/Index.php on line 8
+[19-Sep-2016 21:06:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/asanches/public_html/CMPE2500/Index.php on line 43
+[19-Sep-2016 21:07:15 UTC] PHP Warning:  scandir() expects parameter 1 to be a valid path, array given in /home/asanches/public_html/CMPE2500/Index.php on line 8
+[19-Sep-2016 21:07:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/asanches/public_html/CMPE2500/Index.php on line 43
+[19-Sep-2016 21:07:57 UTC] PHP Warning:  scandir() expects parameter 1 to be a valid path, array given in /home/asanches/public_html/CMPE2500/Index.php on line 8
+[19-Sep-2016 21:07:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/asanches/public_html/CMPE2500/Index.php on line 43
+[19-Sep-2016 21:12:38 UTC] PHP Warning:  scandir() expects parameter 1 to be a valid path, array given in /home/asanches/public_html/CMPE2500/Index.php on line 8
+[19-Sep-2016 21:12:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/asanches/public_html/CMPE2500/Index.php on line 43
+[19-Sep-2016 21:12:51 UTC] PHP Warning:  scandir() expects parameter 1 to be a valid path, array given in /home/asanches/public_html/CMPE2500/Index.php on line 8
+[19-Sep-2016 21:12:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/asanches/public_html/CMPE2500/Index.php on line 43
