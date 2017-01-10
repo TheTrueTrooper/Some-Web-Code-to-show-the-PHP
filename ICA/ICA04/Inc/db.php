@@ -17,7 +17,7 @@ function mysqliConnect() {
 	global $mysqli, $mysqli_response, $mysqli_status; // register the globals here for use.. odd but it works that way
 	
 	//$mysqli=new mysqli( DB_HOST       DB_USER,    DB_PASS,    DB_NAME,  [ DB_PORT ], [ BP_UNIX_SOCKET ]);	
-	$mysqli = new mysqli("localhost", "asanches_User", "Fix456[][", "asanches_DataBase");
+	$mysqli = new mysqli("localhost", "User", "Pass", "DataBase");
 	if ($mysqli -> connect_error) 			// if connection failed, update response with error codes and bail out
 	{
 		$mysqli_response[] = 'Connect Error (' . $mysqli -> connect_errno . ') ' . $mysqli -> connect_error;
